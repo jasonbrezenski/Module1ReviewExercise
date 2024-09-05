@@ -1,0 +1,28 @@
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.deps.json
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.runtimeconfig.json
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.dll
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.pdb
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.AssemblyInfoInputs.cache
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.AssemblyInfo.cs
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.csproj.CoreCompileInputs.cache
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.dll
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/refint/Module 1 Review Exercise.dll
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.pdb
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.genruntimeconfig.cache
+/Users/jasonbrezenski/Desktop/repos/Module 1 Review Exercise/Module 1 Review Exercise/obj/Debug/net8.0/ref/Module 1 Review Exercise.dll
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.deps.json
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.runtimeconfig.json
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.dll
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/bin/Debug/net8.0/Module 1 Review Exercise.pdb
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.AssemblyInfoInputs.cache
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.AssemblyInfo.cs
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.csproj.CoreCompileInputs.cache
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.dll
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/refint/Module 1 Review Exercise.dll
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.pdb
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/Module 1 Review Exercise.genruntimeconfig.cache
+/Users/jasonbrezenski/Desktop/repos/Module1ReviewExercise/Module 1 Review Exercise/obj/Debug/net8.0/ref/Module 1 Review Exercise.dll
